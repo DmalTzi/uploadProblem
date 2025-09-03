@@ -17,7 +17,7 @@
 ```
 `data` คือส่วนที่เก็บไฟล์ testcase ทั้งหมด  
 `sample` คือส่วนที่เก็บ testcase ตัวอย่าง  
-| ภายในประกอบด้วย `*.in` หมายถึง ไฟล์ input และ `*.ans` หมายถึงไฟล์  
+| ภายในประกอบด้วย `*.in` หมายถึง ไฟล์ input และ `*.ans` หมายถึงไฟล์ output  
 `secret` คือส่วนที่เก็บ hidden testcase  
 `problem.pdf` คือไฟล์สำหรับเก็บ statement ของโจทย์ข้อนี้  
 `problem.yaml` setup สำหรับ domjudge
